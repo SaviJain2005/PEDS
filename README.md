@@ -89,3 +89,5 @@ jobs:
 
 - Live intelligence sources: NIH RxNorm (RxCUI resolution), openFDA SPL labels, openFDA FAERS adverse-event counts; 24 h local cache; offline fallback.
 - The safety engine is local-first and authoritative; live data enriches labels only.
+
+## photos are also added to view how dashboard looks
